@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Css**
 
-- 📝 I regularly write articles on [3mni@wordpress.com](3mni.wordpress.com)
+- 📝 I regularly write articles on [3mni.wordpress.com](3mni.wordpress.com)
 
 - 💬 Ask me about **python**
 
